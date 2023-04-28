@@ -5,9 +5,10 @@ from pathlib import Path
 
 def main():
     if "--head" in sys.argv:
-        print("# Booths\n")
-        print("[![Asset Pallet Generator](https://github.com/neon-buidl/booths/actions/workflows/main.yml/badge.svg)](https://github.com/neon-buidl/booths/actions/workflows/main.yml)\n")
-        print("Download templates: https://sketchfab.com/3d-models/remixable-booth-templates-d565cb7935744d6190b7d23b260e743b\n")
+        print("# DAOtown\n")
+        print("[![.github/workflows/main.yml](https://github.com/NEON-BUIDL/DAOtown/actions/workflows/main.yml/badge.svg)](https://github.com/NEON-BUIDL/DAOtown/actions/workflows/main.yml)\n")
+        print("The wild west of cipherspace, welcome to DAOtown\n")
+        print("![image](https://user-images.githubusercontent.com/32600939/235210391-b759c45a-198e-41f3-816d-f4db3b998fd7.png)\n")
         print("\n")
         sys.exit(0)
 
