@@ -26,15 +26,12 @@ jobs:
         run: |
           chmod +x scripts/process_files.sh
           ./scripts/process_files.sh models glb png 512 512
-          ./scripts/process_files.sh templates glb png 512 512
           ./scripts/generate_html_gallery.sh models --body >> index.html
-          ./scripts/generate_html_gallery.sh templates --body --tail >> index.html
 
       - name: Update README
         run: |
           python scripts/table.py --head > README.md
           python scripts/table.py models >> README.md
-          python scripts/table.py templates >> README.md
 
       - name: Commit changes
         env:
