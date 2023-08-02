@@ -1,8 +1,6 @@
 # DAOtown
 
-[![Club](https://img.shields.io/badge/project%20type-club-ff69b4)](https://project-types.github.io/#club)
-[![Discord](https://img.shields.io/discord/770382203782692945?label=Discord&logo=Discord)](https://discord.gg/RZ2tH6yJgZ)
-[![Twitter Follow](https://img.shields.io/twitter/follow/neon_buidl)](https://twitter.com/neon_buidl)
+[![.github/workflows/main.yml](https://github.com/NEON-BUIDL/DAOtown/actions/workflows/main.yml/badge.svg)](https://github.com/NEON-BUIDL/DAOtown/actions/workflows/main.yml) [![](https://dcbadge.vercel.app/api/server/uwuFuB6m)](https://discord.gg/uwuFuB6m)
 
 The wild west of cipherspace, welcome to DAOtown
 
@@ -19,7 +17,6 @@ Howdy! We're building a 3D frontend for the DAO ecosystem. First just gathering 
 
  ## models
 
-![.github/workflows/main.yml](https://github.com/NEON-BUIDL/DAOtown/actions/workflows/main.yml/badge.svg)
 
 | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- |
